@@ -4,7 +4,7 @@
 
 <p>This README document contains detailed instructions for migrating and rolling back database changes.The migration applies to renaming columns, modifying column lengths, and changing the structure of table. A rollback method is also available to reverse changes if required.</p><br>
 
-<h2>This README provides two methods for executing the SQL scripts:<h2><br>
+<h3>This README provides two methods for executing the SQL scripts:<h3>
 •Running Scripts from Terminal<br>
 •Running Scripts from pgAdmin (Alternative way)<br>
 
@@ -16,7 +16,6 @@
 
 
 <h2>Running Scripts from Terminal</h2><br>
-
 <h3>Downloading the SQL scripts.</h3><br>
 <p>To get started with the migration, download the necessary SQL scripts (creation_insert_tables.sql, migration.sql, and rollback.sql) from the GitHub repository. Following is way to obtain  scripts:</p><br>
 1.Visit the GitHub repository that contains files.<br>
