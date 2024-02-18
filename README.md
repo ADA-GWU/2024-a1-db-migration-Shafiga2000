@@ -33,7 +33,7 @@ After authorization, you will be able to connect to your database<br>
 Before beginning with the migration, make sure that the correct tables have been established in your database. Complete these steps:<br>
 1.In the terminal or command prompt, run the following command:  \i  path/to/creation_insert_tables.sql <br>
 2.Replace path/to/creation_insert_tables.sql with the actual path to the SQL script that generates and adds data into the specified tables.<br>
-This command runs the SQL script, which creates and fills all required tables. For example:<br>
+This command runs the SQL script, which creates and fills all required tables. Example from my system:<br>
 \i  C:/Users/gsrus/Desktop/University/creation_insert_tables.sql
 
 <h3>Running Migration and Rollback Scripts</h3>
