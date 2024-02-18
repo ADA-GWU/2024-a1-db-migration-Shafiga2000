@@ -59,7 +59,7 @@ Executing this script will reverse the migration changes and return the database
 These instructions will allow you to use pgAdmin to run the SQL scripts, giving you an alternate way to work with your PostgreSQL database.<br>
 
 1.Open pgAdmin: Open pgAdmin and provide your password  to establish a connection to your PostgreSQL server.<br>
-2.To access the Query Tool:  find your database in the Object Browser, then right-click and select "Query Tool" to launch a new query window.<br>
+2.To access the Query Tool:  find your database in the Object Browser (click Servers), then right-click and select "Query Tool" to launch a new query window.<br>
 3.Open SQL Script: To run the SQL script you want to run (such as creation_insert_tables.sql, migration.sql, or rollback.sql), use the Query Tool's "Open File" option.<br>
 4.Execute Script: To execute the SQL script  when it has loaded in the Query Tool, click the "Execute" button or press F5.<br>
 5.Analyze Output: To be sure the script executed successfully, check through the output messages once it has been run.<br>
