@@ -4,7 +4,7 @@
 
 <p>This README document contains detailed instructions for migrating and rolling back database changes.The migration applies to renaming columns, modifying column lengths, and changing the structure of table. A rollback method is also available to reverse changes if required.</p><br>
 
-<h3>This README provides two methods for executing the SQL scripts:<h3>
+<p>This README provides two methods for executing the SQL scripts:</p>
 1.Running Scripts from Terminal<br>
 2.Running Scripts from pgAdmin (Alternative way)<br>
 
