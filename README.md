@@ -18,7 +18,7 @@
 <h2>Running Scripts from Terminal</h2><br>
 <h3>Downloading the SQL scripts.</h3><br>
 <p>To get started with the migration, download the necessary SQL scripts (creation_insert_tables.sql, migration.sql, and rollback.sql) from the GitHub repository. Following is way to obtain  scripts:</p><br>
-1.Visit the GitHub repository that contains files.<br>
+1.Visit the GitHub repository that contains files.  https://github.com/ADA-GWU/2024-a1-db-migration-Shafiga2000 <br>
 2.Download scripts from GitHub repository <br>
 3.Locate the following SQL files: creation_insert_tables.sql, migration.sql, and rollback.sql.<br>
 
